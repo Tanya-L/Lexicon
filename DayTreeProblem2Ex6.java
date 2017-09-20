@@ -1,7 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 6. Write a Java program that accepts three integers from the user and
+return true if two or more of them (integers) have the same remainder
+after dividing by 3. The integers are non-negative.
+Sample Output:
+Input the first number : 5
+Input the second number: 10
+Input the third number : 15
+The result is: true
  */
 package daytree;
 

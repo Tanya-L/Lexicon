@@ -1,4 +1,8 @@
-
+/*
+2- Show the for statement for a loop that counts from 1000 to 0 by –2.
+Output
+1000 998 ... 4 2
+*/
 package daytree;
 public class DayTreeProblem1Ex2 {
 

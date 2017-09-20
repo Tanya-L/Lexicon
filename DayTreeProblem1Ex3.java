@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 3- The number S is called the mean of two numbers R1 and R2, if S is equal to (R1 +R2)/2.
+Input
+The first and only line of input contains two integers R1 and S.
+Output
+Output R2 on a single line.
  */
 package daytree;
 

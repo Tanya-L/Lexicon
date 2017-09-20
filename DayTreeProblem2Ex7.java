@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 7. Write a Java program to convert seconds to hour, minute and seconds.
+Sample Output:
+Input seconds: 86399
+23:59:59
  */
 package daytree;
 
